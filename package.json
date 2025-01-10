@@ -86,7 +86,7 @@
     "eslint-plugin-eslint-plugin": "^5.2.1",
     "eslint-plugin-mdx": "^2.3.0",
     "eslint-plugin-n": "^16.5.0",
-    "eslint-plugin-prettier": "link:.",
+    "eslint-plugin-prettier": "file:.",
     "eslint-plugin-pug": "^1.2.5",
     "eslint-plugin-svelte": "^2.35.1",
     "eslint-plugin-svelte3": "^4.0.0",
